@@ -6,15 +6,15 @@ Currently an Incident Engineer, working within a large-scale microservices platf
 
 ### Tech Stack
 
-`Frontend:` React · JavaScript · TypeScript · HTML · CSS<br>
+`Frontend:` · React · JavaScript · TypeScript · Redux · HTML · CSS<br>
 
-`Backend:` Node.js · Express · REST APIs<br>
+`Backend:` · Node.js · Express · REST APIs<br>
 
-`Database:` MongoDB · SQL<br>
+`Database:` · MongoDB · SQL<br>
 
-`Testing:` Jest · Playwright<br>
+`Testing:` · Jest · Playwright<br>
 
-`Additionally:` Python<br>
+`Additionally:` · Python<br>
 
 ### Projects
 
