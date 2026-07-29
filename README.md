@@ -1,26 +1,22 @@
-## Hi, It's Ozzy
+I'm an engineer who enjoys crafting full-stack web apps, I value quality over quantity and speed, I like diving deep into topics and understanding how things work under the hood.
 
-Engineer who enjoys crafting web apps with React, Node, and MongoDB — and rock music when the screen is off.
+I've also been drawn to low-level embedded C and DSP where my passion for music and and engineering meets.
 
-Currently an Incident Engineer, working within a large-scale microservices platform, and moving toward a dedicated frontend / full-stack development role.
+### My Current Tech Stack
+`Frontend:` React · TypeScript · JavaScript · Redux · HTML · CSS · Tailwind<br>
 
-### Tech Stack
+`Backend:` Node.js · Express.js · REST APIs · JWT Auth · Middleware & Validation (Zod / Custom) · Rate Limiting · API Security
 
-`Frontend:` React · JavaScript · TypeScript · Redux · HTML · CSS · Tailwind<br>
+`Database:` MongoDB · Mongoose · SQL (MSSQL & PostgreSQL) · DB Indexing & Search Optimization<br>
 
-`Backend:` Node.js · Express · REST APIs<br>
+`Monitoring & Tools:` Splunk · Grafana · Jira · Git · GitHub · CI/CD<br>
 
-`Database:` MongoDB · SQL<br>
+`Testing:` Vitest · Jest · Playwright<br>
 
-`Testing:` Vitest ·Jest · Playwright<br>
+`Embedded Systems (learning):` Basic Embedded C · Basic STM32 · Basic DSP<br>
 
-`Additionally:` Python<br>
+`Additional Languages:` Python
 
-### Projects
-
-[ozzyMusic](https://github.com/0zzyM/mern-music-store) — full-stack MERN e-commerce platform for musical instruments
-
-### Reach me
-
+### You can contact me on:
 [LinkedIn](https://www.linkedin.com/in/ozzyacar/) · oguzhannacarr@gmail.com
 
