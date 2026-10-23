@@ -13,7 +13,7 @@ I've also been drawn to low-level embedded C and DSP where my passion for music 
 
 `Testing:` Vitest · Jest · Playwright<br>
 
-`Embedded Systems (learning):` Basic Embedded C · Basic STM32 · Basic DSP<br>
+`Embedded Systems (learning):`  Embedded C · STM32 · Basic DSP<br>
 
 `Additional Languages:` Python
 
